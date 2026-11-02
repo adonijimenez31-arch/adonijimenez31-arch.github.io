@@ -1,0 +1,20 @@
+{
+  "name": "Lizbeth Guzmán | REALTOR®",
+  "short_name": "Lizbeth Casas",
+  "description": "Casas en venta en todo Arizona con Lizbeth Guzmán, REALTOR® — Barrett Real Estate.",
+  "lang": "es",
+  "start_url": "/es/?source=app",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#faf8f4",
+  "theme_color": "#232326",
+  "icons": [
+    {"src": "/assets/img/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "/assets/img/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "/assets/img/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ],
+  "shortcuts": [
+    {"name": "Casas en venta", "url": "/es/casas/", "icons": [{"src": "/assets/img/icon-192.png", "sizes": "192x192"}]},
+    {"name": "Contactar a Lizbeth", "url": "/es/contacto/", "icons": [{"src": "/assets/img/icon-192.png", "sizes": "192x192"}]}
+  ]
+}
